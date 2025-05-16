@@ -8,7 +8,7 @@
 
 ### Socials:
 
-[Link to your LinkedIn](https://www.linkedin.com/in/kartik-pathak-379959269/)
+[LinkedIn](https://www.linkedin.com/in/kartik-pathak-379959269/)
 
 ### Tech Stack:
 
