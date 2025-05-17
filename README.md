@@ -1,10 +1,13 @@
 ### 💫About Me:
 
 🧠 Self-taught and hungry to break & build
+
 🎯Full-Stack web-developer
 
 🛡️Hackerrank grinder | tech enthusiast
+
 🤖Blending AI + Web3 | Automating the grind
+
 ⚡ Code, chaos, and curiosity — that's the stack
 
 ### 🌐Socials:
