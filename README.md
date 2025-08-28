@@ -36,6 +36,4 @@
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=retarduser404&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retarduser404&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=retarduser404&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+![](https://nirzak-streak-stats.vercel.app/?user=retarduser404&theme=neon&hide_border=false)<br/>
