@@ -37,4 +37,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retarduser404&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=retarduser404&theme=dark)](https://github.com/ashutosh1919/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=retarduser404&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
