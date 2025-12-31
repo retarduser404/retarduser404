@@ -1,58 +1,75 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kartik%20Pathak&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Kartik%20Pathak&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Blending+AI+%2B+Web3;Automating+the+grind;Code%2C+chaos%2C+and+curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=500&lines=AI+Full-Stack+Developer;BCAFSD+Student+%7C+2nd+Year;Building+Intelligent+Web+Apps;Learning+%E2%86%92+Building+%E2%86%92+Shipping" alt="Typing SVG" />
+  
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=11998e" alt="Profile Views"/>
 </div>
 
 ---
 
-### 💫 About Me
+## 🧠 About Me
 
-🧠 **Self-taught and hungry to break & build** I'm a developer who thrives on solving complex problems and building efficient systems. Whether it's grinding on HackerRank or architecting a full-stack dApp, I'm always looking for the next challenge.
+I'm a **2nd Year BCAFSD student** passionate about building intelligent, full-stack applications. I love exploring the intersection of **AI and modern web development**.
 
-* 🛡️ **HackerRank Grinder** | Tech Enthusiast
-* 🤖 **Innovation:** Currently exploring the intersection of AI and Web3.
-* ⚡ **Philosophy:** Code, chaos, and curiosity — that's the stack.
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kartik-pathak-379959269/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/retarduser404" target="blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+- 🔭 **Currently Building:** AI-powered web applications
+- 🌱 **Learning:** LangChain, Vector Databases, Advanced React Patterns
+- 💡 **Philosophy:** Learn by building, fail fast, iterate faster
+- ⚡ **Fun Fact:** I solve problems on HackerRank for fun
 
 ---
 
-### 💻 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools/OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
----
-
-### 📊 GitHub Insights
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=retarduser404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retarduser404&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=retarduser404&theme=tokyonight&hide_border=true" />
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **AI/ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+<!-- Add your projects here -->
+| Project | Description | Tech |
+|:---|:---|:---|
+| 🤖 **AI Project Name** | Brief description | React, OpenAI, Node.js |
+| 🌐 **Web App Name** | Brief description | Next.js, TypeScript |
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38ef7d&icon_color=38ef7d&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38ef7d&text_color=ffffff" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117&color=38ef7d&line=38ef7d&point=ffffff" />
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pathak-379959269/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=100&section=footer"/>
 </div>
