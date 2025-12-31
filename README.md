@@ -10,12 +10,12 @@
 
 ## 🧠 About Me
 
-I'm a **2nd Year BCAFSD student** passionate about building intelligent, full-stack applications. I love exploring the intersection of **AI and modern web development**.
 
-- 🔭 **Currently Building:** AI-powered web applications
-- 🌱 **Learning:** LangChain, Vector Databases, Advanced React Patterns
+
+- 🔭 Self-taught and hungry to break & build
+- 🌱 Blending AI + FSD | Automating the grind
 - 💡 **Philosophy:** Learn by building, fail fast, iterate faster
-- ⚡ **Fun Fact:** I solve problems on HackerRank for fun
+- ⚡ Code, chaos, and curiosity — that’s the stack
 
 ---
 
