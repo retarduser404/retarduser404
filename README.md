@@ -14,7 +14,7 @@
 
 - 🔭 Self-taught and hungry to break & build
 - 🌱 Blending AI + FSD | Automating the grind
-- 💡 **Philosophy:** Learn by building, fail fast, iterate faster
+- 💡 Learn by building, fail fast, iterate faster
 - ⚡ Code, chaos, and curiosity — that’s the stack
 
 ---
