@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Kartik%20Pathak&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=500&lines=AI+Full-Stack+Developer;BCAFSD+Student+%7C+2nd+Year;Building+Intelligent+Web+Apps;Learning+%E2%86%92+Building+%E2%86%92+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=500&lines=AI+Full-Stack+Developer;Building+Intelligent+Web+Apps;Learning+%E2%86%92+Building+%E2%86%92+Shipping" alt="Typing SVG" />
   
   <img src="https://komarev.com/ghpvc/?username=retarduser404&style=for-the-badge&color=11998e" alt="Profile Views"/>
 </div>
