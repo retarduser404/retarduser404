@@ -3,7 +3,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=500&lines=AI+Full-Stack+Developer;BCAFSD+Student+%7C+2nd+Year;Building+Intelligent+Web+Apps;Learning+%E2%86%92+Building+%E2%86%92+Shipping" alt="Typing SVG" />
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=11998e" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=retarduser404&style=for-the-badge&color=11998e" alt="Profile Views"/>
 </div>
 
 ---
@@ -35,25 +35,15 @@ I'm a **2nd Year BCAFSD student** passionate about building intelligent, full-st
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Add your projects here -->
-| Project | Description | Tech |
-|:---|:---|:---|
-| 🤖 **AI Project Name** | Brief description | React, OpenAI, Node.js |
-| 🌐 **Web App Name** | Brief description | Next.js, TypeScript |
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38ef7d&icon_color=38ef7d&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38ef7d&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=retarduser404&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38ef7d&icon_color=38ef7d&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retarduser404&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38ef7d&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117&color=38ef7d&line=38ef7d&point=ffffff" />
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=retarduser404&theme=dark&hide_border=true&background=0d1117&ring=38ef7d&fire=38ef7d&currStreakLabel=38ef7d" />
 </div>
 
 ---
@@ -63,8 +53,7 @@ I'm a **2nd Year BCAFSD student** passionate about building intelligent, full-st
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pathak-379959269/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/retarduser404)
 
 </div>
 
